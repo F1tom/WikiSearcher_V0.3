@@ -1,4 +1,4 @@
-# WikiSearcher_V0.4
+# WikiSearcher_V0.3
 This Telegram bot allows users to search for information on Wikipedia directly through Telegram. The bot supports both private chats and group conversations, with built-in user management and administration features.
 
 Features
